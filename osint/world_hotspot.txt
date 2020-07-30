@@ -1,0 +1,15 @@
+ 9C:EF:D5:FB:9F:F0 < I think it's an MAC address
+
+ 9C:EF:D5 < Panda Wireless
+
+Address Prefix	9C:EF:D5
+Vendor / Company	Panda Wireless, Inc.
+Start Address	9CEFD5000000
+End Address	9CEFD5FFFFFF
+Company Address	15559 Union Ave, Suite 300 Los Gatos Ca 95032 Us
+
+http://www.pandawireless.com/pandaAC600.htm
+so, if you wanted to find more information about a MAC address's physical location
+how would you do that?
+
+IP address?

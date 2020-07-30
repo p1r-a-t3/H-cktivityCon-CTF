@@ -1,0 +1,6 @@
+%00 does not work
+/././ < 4096 bytes does not work
+any code commenting does not work. They are removed
+
+Remote File Inclusion work? No. LFI it is
+
