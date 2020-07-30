@@ -1,0 +1,12 @@
+user@cat_cage:/home/user$ ./get_flag
+./get_flag
+Oh I am sorry, only cats can get the flag!
+user@cat_cage:/home/user$ 
+
+
+/bin/cat get_flag
+#!/bin/sh
+
+echo "Oh I am sorry, only cats can get the flag!"
+exit 0
+

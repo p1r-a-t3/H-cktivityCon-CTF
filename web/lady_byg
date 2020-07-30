@@ -1,0 +1,12 @@
+assert name in [
+                "park",
+                "disney",
+                "beach",
+                "home",
+        ]
+ 
+        if "home" in name:
+		return render_template("home.html") 
+
+uses flask
+bug on URL
